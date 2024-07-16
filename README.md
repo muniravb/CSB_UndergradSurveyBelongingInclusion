@@ -1,2 +1,2 @@
-# UndergradCSBelongingInclusionSurvey
-This is a pre- and post-survey suitable for determining feelings of belonging and inclusion in undergraduate computer science
+# Undergraduate CS Belonging and Inclusion Survey
+This is a pre- and post-survey suitable for determining feelings of belonging and inclusion in undergraduate computer science departments. Questions are in likert-scale format (majority), free-response (several), and checkboxes (several, mainly for collecting demographic information). The survey was administered by the Department of Computer Science at Elon University in the Spring 2024 semester across the department, from introductory to advanced-level courses. 
